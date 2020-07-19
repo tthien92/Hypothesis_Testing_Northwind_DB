@@ -7,7 +7,7 @@ statistically significant effect on the number of products customers order*?
 
 A downsized version of the Northwind database was utilized to reduce computing time, and a schema for the data can be found below:
 
-![schema](images/schema.JPG)
+![schema](images/schema.png)
 
 ### Deliverables
 
